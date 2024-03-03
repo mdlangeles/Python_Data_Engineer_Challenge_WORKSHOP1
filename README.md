@@ -69,7 +69,13 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
    
         pip install pandas
    
-6. Create the JSON file  with the next format:
+6.   Create a database in PostgreSQL:
+   
+   <img width="432" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/5e9decec-8f7b-4a58-90d0-f2c295461552">
+   <img width="284" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/f4ce4b63-03ea-4801-8c75-11aa835a7571">
+   
+   
+7. Create the JSON file  with the next format:
    
         {
             "user": "your_user",
@@ -79,10 +85,6 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
             "db": "your_database_name"
         }
 
-8.   Create a database in PostgreSQL:
-   
-   <img width="432" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/5e9decec-8f7b-4a58-90d0-f2c295461552">
-   <img width="284" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/f4ce4b63-03ea-4801-8c75-11aa835a7571">
 
 8. Explore the notebook: in [workshop1.ipynb](workshop1.ipynb) you can find all the workshop procedure, and enjoy it.
 9. Go to PowerBI and once you have your table created in the database, you will be able to make the respective visualizations and interact with them:
