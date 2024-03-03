@@ -30,7 +30,8 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 - SQLALchemy
 - Psycopg2
 - Pandas
-
+- JSON credentials file (credentials.json)
+  
 ## Tools Used
 
 - Python 
@@ -44,17 +45,6 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 - PostgreSQL 
 
 - Jupyter Notebook
-
-JSON credentials file (credentials.json) with the next format:
-  
-    {
-        "user": "your_user",
-        "password": "your_password",
-        "port": your_number_port,
-        "server": "your_server_address",
-        "db": "your_database_name"
-    }
-
 
 
 ## Getting Started
@@ -78,8 +68,18 @@ JSON credentials file (credentials.json) with the next format:
         pip install psycopg2
    
         pip install pandas
+   
+6. Create the JSON file  with the next format:
+   
+        {
+            "user": "your_user",
+            "password": "your_password",
+            "port": your_number_port,
+            "server": "your_server_address",
+            "db": "your_database_name"
+        }
 
-7. Create a database in PostgreSQL:
+8.   Create a database in PostgreSQL:
    
    <img width="432" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/5e9decec-8f7b-4a58-90d0-f2c295461552">
    <img width="284" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/f4ce4b63-03ea-4801-8c75-11aa835a7571">
