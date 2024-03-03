@@ -45,7 +45,7 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 
 - Jupyter Notebook
 
-JSON credentials file (keys.json) with the next format:
+JSON credentials file (credentials.json) with the next format:
   
     {
         "user": "your_user",
