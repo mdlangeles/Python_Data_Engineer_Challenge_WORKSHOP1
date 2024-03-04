@@ -25,6 +25,12 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 9. Code Challenge Score
 10. Technical Interview
 
+## Flow Diagram
+
+
+![alt text](Workshop_1.drawio.png)
+
+
 ## Requirements
 
 - SQLALchemy
@@ -37,6 +43,8 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 - Python 
 
 - Pandas 
+
+- Matplotlib
 
 - PowerBI 
 
