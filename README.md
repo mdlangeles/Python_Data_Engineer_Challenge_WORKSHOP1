@@ -100,7 +100,7 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 <img width="241" alt="image" src="https://github.com/mdlangeles/Workshop_1/assets/111391755/17c37532-a76c-4b78-b497-bcfab597d1e8">
 
 11. Select the "hiredCandidates" table created in notebook, and you can start with the required visualizations.
-12. And now, remember that you can find the visualizations in Visualizations - Workshop_1.pdf in the repository archives.
+12. And now, remember that you can find the visualizations in [Visualizations - Workshop_1.pdf] in the repository archives.
 
 
 ## Thank you for visiting this Repository
