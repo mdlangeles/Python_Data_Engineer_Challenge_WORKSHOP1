@@ -32,7 +32,7 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 
 
 ## Requirements
-
+- Python
 - SQLALchemy
 - Psycopg2
 - Pandas
@@ -71,11 +71,7 @@ This dataset have 50k rows and 10 columns of data about candidates. The columns 
 
 5. Install the Requirements:
    
-        pip install sqlalchemy
-   
-        pip install psycopg2
-   
-        pip install pandas
+        pip install -r requirements.txt
    
 6.   Create a database in PostgreSQL:
    
